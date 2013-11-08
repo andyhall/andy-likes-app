@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>What Andy Likes</name>
+
+<description>
+A simple PhoneGap Build application.
+</description>
+
+<author href="https://aphall.com" email="andhall@adobe.com">
+Andy Hall
+</author>
+
+<preference name="phonegap-version" value="3.0.0" />
+
+</widget>
